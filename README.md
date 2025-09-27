@@ -23,8 +23,8 @@ Here are some of my repos:
 ---
 
 ## 📫 Contact
-- Email: *your email here*  
-- LinkedIn: *your LinkedIn link here*  
+- Email: alextrentlangan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alex-langan1/  
 
 ---
 
