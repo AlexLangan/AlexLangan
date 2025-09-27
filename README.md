@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Alex 👋
 
-<!--
-**AlexLangan/AlexLangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at Ulster University Derry.  
+I’m interested in Python, data, and embedded systems. Right now I’m learning more about AI/ML, networking, and cloud.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Languages**: Python, Java, JavaScript, SQL  
+- **Tools**: Docker, Git/GitHub, Linux  
+- **Areas**: Web development, data analysis, embedded systems
+
+---
+
+## 🛠 Projects
+Here are some of my repos:
+
+- [**alien_invasion**](https://github.com/AlexLangan/alien_invasion) – a Python game  
+- [**OBD-Dashboard**](https://github.com/AlexLangan/OBD-Dashboard) – car diagnostics dashboard (JS, CSS)  
+- [**docker-agent**](https://github.com/AlexLangan/docker-agent) – Docker automation tool  
+- [**other repos →**](https://github.com/AlexLangan?tab=repositories)
+
+---
+
+## 📫 Contact
+- Email: *your email here*  
+- LinkedIn: *your LinkedIn link here*  
+
+---
+
+⭐️ Feel free to check out my repos and projects.
