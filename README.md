@@ -1,7 +1,9 @@
 # Hi, I’m Alex 👋  
 
 I’m a Computer Science student at Ulster University Derry.  
+
 I’m interested in **Python, AI/ML, embedded systems, and cloud computing**.  
+
 Right now I’m learning more about **networking, automation, and data-driven systems**.  
 
 ---
