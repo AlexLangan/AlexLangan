@@ -7,7 +7,7 @@ I’m interested in Python, data, and embedded systems. Right now I’m learning
 
 ## 🔧 Skills & Tools
 - **Languages**: Python, Java, JavaScript, SQL  
-- **Tools**: Docker, Git/GitHub, Linux  
+- **Tools**: Docker, Git/GitHub(duh), Linux  
 - **Areas**: Web development, data analysis, embedded systems
 
 ---
