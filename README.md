@@ -40,5 +40,3 @@ Right now I’m learning more about **networking, automation, and data-driven sy
 🔗 **LinkedIn**: [alex-langan1](https://www.linkedin.com/in/alex-langan1/)  
 
 ---
-
-⭐️ Always building, always learning.
