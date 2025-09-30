@@ -40,4 +40,6 @@ Adding manual RC control to my LEGO autonomous car via mobile app (applying skil
 📧 **Email**: alextrentlangan@gmail.com  
 🔗 **LinkedIn**: [alex-langan1](https://www.linkedin.com/in/alex-langan1/)
 
+
 ---
+   💡 *Always open to collaborating on interesting projects!*
